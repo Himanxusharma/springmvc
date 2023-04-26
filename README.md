@@ -23,4 +23,4 @@ If you would like to contribute to this repository, please feel free to fork the
 This repository is licensed under the MIT License. See the LICENSE file for more information.
 
 ##  Contact
-If you have any questions or feedback, please don't hesitate to reach out to us at himanxushamra@gmail.com. We would love to hear from you!
+If you have any questions or feedback, please don't hesitate to reach out to us at himanxusharma@gmail.com. We would love to hear from you!
